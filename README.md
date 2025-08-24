@@ -48,11 +48,7 @@ Developed a model to predict returns and optimize portfolio allocation.
 
 ## 📈 GitHub Stats
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=thePrnvBot&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thePrnvBot&layout=compact&theme=radical)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=thePrnvBot&theme=radical)
 
 ---
 
