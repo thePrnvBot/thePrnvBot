@@ -5,12 +5,21 @@ Really into making things that make a difference.
 ---
 
 ## 🛠️ Tech Stack
+**Languages:**  
+C#, SQL, T-SQL, Python, TypeScript  
 
-**Languages:** C#, SQL, T-SQL, Python, TypeScript  
-**Frameworks & Platforms:** .NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js  
-**Databases:** SQL Server, PostgreSQL, 
-**Web & Tools:** React.js, Next.js, tRPC,REST APIs, DrizzleORM, React/Tanstack Query, Tailwind CSS, Docker, Git, Azure DevOps  
-**Testing & Practices:** REST API design, Unit Testing, Agile/Scrum, Dependency Injection
+**Databases:**  
+SQL Server, PostgreSQL  
+
+**Frameworks & Libraries:**  
+.NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js, React.js, Next.js, tRPC, DrizzleORM, React Query / TanStack Query, Tailwind CSS  
+
+**Tools & Platforms:**  
+Docker, Git, Azure DevOps  
+
+**Practices:**  
+REST API design, Unit Testing, Agile/Scrum, Dependency Injection  
+
 
 ---
 
