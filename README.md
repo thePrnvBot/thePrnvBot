@@ -8,9 +8,9 @@ Really into making things that make a difference.
 
 **Languages:** C#, SQL, T-SQL, Python, TypeScript  
 **Frameworks & Platforms:** .NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js  
-**Databases:** SQL Server, PostgreSQL, Oracle  
-**Web & Tools:** React.js, Tailwind CSS, Docker, Git, Azure DevOps  
-**Testing & Practices:** REST API design, Unit Testing, Agile/Scrum, Dependency Injection, Middleware  
+**Databases:** SQL Server, PostgreSQL, 
+**Web & Tools:** React.js, Next.js, tRPC,REST APIs, DrizzleORM, React/Tanstack Query, Tailwind CSS, Docker, Git, Azure DevOps  
+**Testing & Practices:** REST API design, Unit Testing, Agile/Scrum, Dependency Injection
 
 ---
 
