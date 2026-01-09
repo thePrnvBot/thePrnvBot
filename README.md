@@ -9,10 +9,10 @@ Really into making things that make a difference.
 C#, SQL, T-SQL, Python, TypeScript  
 
 **Databases:**  
-SQL Server, PostgreSQL  
+SQL Server, PostgreSQL, Convex
 
 **Frameworks & Libraries:**  
-.NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js, React.js, Next.js, tRPC, DrizzleORM, React Query / TanStack Query, Tailwind CSS  
+.NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js, React.js, Next.js, tRPC, DrizzleORM, React Query / TanStack Query, Tanstack Start, Opensearch, Tailwind CSS  
 
 **Tools & Platforms:**  
 Docker, Git, Azure DevOps  
