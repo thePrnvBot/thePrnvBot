@@ -1,29 +1,25 @@
-# Hi there, I'm Pranav Induchudan 👋
+# Hey, I'm Pranav Induchudan
 
-Really into making things that make a difference.
+A SWE really into making things that make a difference.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages:**  
 C#, SQL, T-SQL, Python, TypeScript  
 
 **Databases:**  
-SQL Server, PostgreSQL, Convex
+MS SQL Server, PostgreSQL, Convex
 
 **Frameworks & Libraries:**  
 .NET Core, ASP.NET MVC/Web API, Entity Framework Core, Node.js, React.js, Next.js, tRPC, DrizzleORM, React Query / TanStack Query, Tanstack Start, Opensearch, Tailwind CSS  
 
 **Tools & Platforms:**  
-Docker, Git, Azure DevOps  
-
-**Practices:**  
-REST API design, Unit Testing, Agile/Scrum, Dependency Injection  
-
+Docker, Git, Azure DevOps, Postman / Yaak  
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Development Intern | Globatech Group, India | Dec 2024 – Jun 2025
 - Developed and maintained backend services and RESTful APIs using .NET Core and C#, handling over 5,000+ daily requests with 99.9% uptime.
@@ -34,38 +30,26 @@ REST API design, Unit Testing, Agile/Scrum, Dependency Injection
 
 ---
 
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering**  
-Vellore Institute of Technology | Sep 2021 – Sep 2025
-
----
-
-## 📂 Projects
-
-### Open-Source Technical Documentation Platform
-Enhanced Docusaurus with a built-in Markdown editor.  
-**Technologies:** React.js, TypeScript, Tailwind CSS, Node.js  
-[View Project](https://github.com/thePrnvBot/yellow-pages)
-
-### Mutual Fund Asset Allocation ML Model
-Developed a model to predict returns and optimize portfolio allocation.  
-**Technologies:** Python, Pandas, Keras, Sklearn  
-[View Project](https://github.com/thePrnvBot/MFAssetAllocationML)
+### Featured Projects
+- [**DevMortem**](https://github.com/thePrnvBot/dev-mortem) - Consolidated Devlog and Postmortem Platform
+- [**Vidchain**](https://theprnvbot.github.io/vidchain-mvp/) - AI-Compatible Youtube Clips Stitcher 
+- [**Music Marketing Site for Local UAE Artist**](https://makeyoumissme.vercel.app/) 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thePrnvBot&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: [prnvindchdan@gmail.com](mailto:prnvindchdan@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/pranav-induchudan](https://www.linkedin.com/in/pranav-induchudan)
+- Email: [prnvindchdan@gmail.com](mailto:prnvindchdan@gmail.com)  
+- LinkedIn: [linkedin.com/in/pranav-induchudan](https://www.linkedin.com/in/pranav-induchudan)
+- X / Twitter: [x/com/thePrnvBot](https://x.com/thePrnvBot)
 
 ---
 
+### Personal Motto
 > “Make it work, Make it right, Make it fast” – A developer that knew what they were talking about.
