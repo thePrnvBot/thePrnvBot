@@ -27,7 +27,7 @@ Docker, Git, Azure DevOps, Postman / Yaak
 
 ## Contact Me
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40thePrnvBot-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/thePrnvBot) [![X Follow](https://www.shieldcn.dev/x/follow/thePrnvBot.svg?variant=branded&size=sm)](https://x.com/thePrnvBot) [![Website](https://www.shieldcn.dev/badge/Website-theprnvbot.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://theprnvbot.vercel.app/) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40pranav--induchudan-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/pranav-induchudan)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40thePrnvBot-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/thePrnvBot) [![X Follow](https://www.shieldcn.dev/x/follow/thePrnvBot.svg?variant=branded&size=sm)](https://x.com/thePrnvBot) [![Website](https://www.shieldcn.dev/badge/Website-theprnvbot.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://theprnvbot.vercel.app/)
 
 ---
 
