@@ -21,7 +21,6 @@ Docker, Git, Azure DevOps, Postman / Yaak
 - [**Dispel - AI Web Stylist**](https://github.com/thePrnvBot/dispel-web-stylist) - AI Web Extension that allows user to styles sites with prompts instead of CSS
 - [**DevMortem**](https://github.com/thePrnvBot/dev-mortem) - Consolidated Devlog and Postmortem Platform
 - [**Vidchain**](https://theprnvbot.github.io/vidchain-mvp/) - AI-Compatible Youtube Clips Stitcher 
-- [**Music Marketing Site for Local UAE Artist**](https://makeyoumissme.vercel.app/) 
 
 ---
 
